@@ -137,3 +137,5 @@ def send_phone():
 if __name__ == "__main__":
     print(f"[+] Welcome To Reset Password  [+]\n\n\n")
     target()
+
+    # This is the main file of the project, which is responsible for sending the email or phone number to the target user.
